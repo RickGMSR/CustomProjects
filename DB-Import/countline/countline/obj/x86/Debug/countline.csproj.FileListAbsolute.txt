@@ -1,0 +1,5 @@
+E:\DB-Import\countline\countline\bin\Debug\countline.exe
+E:\DB-Import\countline\countline\bin\Debug\countline.pdb
+E:\DB-Import\countline\countline\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DB-Import\countline\countline\obj\x86\Debug\countline.exe
+E:\DB-Import\countline\countline\obj\x86\Debug\countline.pdb

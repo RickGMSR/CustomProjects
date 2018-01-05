@@ -1,0 +1,8 @@
+D:\CreateWMList_Src\bin\Debug\CreateWMList.exe
+D:\CreateWMList_Src\bin\Debug\CreateWMList.pdb
+D:\CreateWMList_Src\obj\Debug\CreateWMList.csprojResolveAssemblyReference.cache
+D:\CreateWMList_Src\obj\Debug\CreateWMList.frmCreateWMList.resources
+D:\CreateWMList_Src\obj\Debug\CreateWMList.Properties.Resources.resources
+D:\CreateWMList_Src\obj\Debug\CreateWMList.csproj.GenerateResource.Cache
+D:\CreateWMList_Src\obj\Debug\CreateWMList.exe
+D:\CreateWMList_Src\obj\Debug\CreateWMList.pdb
