@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 10.0.0.4036"/>
+		<author>Kevin Gutierrez</author>
+		<title>My Wake up</title>
+	</head>
+	<body>
+		<seq>
+			<media src="D:\music\wake up\Number1.mp3"/>
+			<media src="D:\music\wake up\number2.mp3"/>
+			<media src="D:\music\wake up\number3.mp3"/>
+			<media src="D:\music\wake up\number4.mp3"/>
+		</seq>
+	</body>
+</smil>
